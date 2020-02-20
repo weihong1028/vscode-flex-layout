@@ -2,7 +2,9 @@
 
 一个仿 vscode 布局的 React 组件
 
-vscode 界面截图 ![](http://cdn.harrybetter.top/screenshot%2F2020-02-20-vscode.png)
+## vscode 界面效果截图
+
+![img](http://cdn.harrybetter.top/screenshot%2F2020-02-20-vscode.png)
 
 ## 需求
 
@@ -10,8 +12,8 @@ vscode 界面截图 ![](http://cdn.harrybetter.top/screenshot%2F2020-02-20-vscod
 
 ## 功能点
 
-- [] 可伸缩布局
-- [] 支持无限拆分
-- [] 面板内支持多 tab
+- [ ] 可伸缩布局
+- [ ] 支持无限拆分
+- [ ] 面板内支持多 tab
 
 
