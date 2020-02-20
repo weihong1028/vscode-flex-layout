@@ -2,7 +2,7 @@
 
 一个仿 vscode 布局的 React 组件
 
-![vscode 界面截图](http://cdn.harrybetter.top/screenshot%2F2020-02-20-vscode.png)
+vscode 界面截图 ![](http://cdn.harrybetter.top/screenshot%2F2020-02-20-vscode.png)
 
 ## 需求
 
